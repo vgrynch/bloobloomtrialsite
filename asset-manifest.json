@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/bloobloomtrialsite/static/css/main.c6c58218.css",
+    "main.js": "/bloobloomtrialsite/static/js/main.5d3bfcda.js",
+    "static/js/787.63c05b88.chunk.js": "/bloobloomtrialsite/static/js/787.63c05b88.chunk.js",
+    "static/media/removeFilter.svg": "/bloobloomtrialsite/static/media/removeFilter.d8eac936084552dc0c77ecb4d4cb973d.svg",
+    "index.html": "/bloobloomtrialsite/index.html",
+    "static/media/arrow.svg": "/bloobloomtrialsite/static/media/arrow.b66c0d24d53afae988fdf34c7c0dd72c.svg",
+    "static/media/arrowWhite.svg": "/bloobloomtrialsite/static/media/arrowWhite.74da3e1c93f8cfc5eba5ea1e4f31dafb.svg",
+    "static/media/menuClose.svg": "/bloobloomtrialsite/static/media/menuClose.f60aff74b8d80eed851c047a4029bc3f.svg",
+    "main.c6c58218.css.map": "/bloobloomtrialsite/static/css/main.c6c58218.css.map",
+    "main.5d3bfcda.js.map": "/bloobloomtrialsite/static/js/main.5d3bfcda.js.map",
+    "787.63c05b88.chunk.js.map": "/bloobloomtrialsite/static/js/787.63c05b88.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6c58218.css",
+    "static/js/main.5d3bfcda.js"
+  ]
+}
