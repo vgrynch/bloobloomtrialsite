@@ -1,18 +1,16 @@
 {
   "files": {
-    "main.css": "/bloobloomtrialsite/static/css/main.091bb221.css",
-    "main.js": "/bloobloomtrialsite/static/js/main.97f6d3fa.js",
-    "static/js/787.63c05b88.chunk.js": "/bloobloomtrialsite/static/js/787.63c05b88.chunk.js",
+    "main.css": "/bloobloomtrialsite/static/css/main.c763dc7d.css",
+    "main.js": "/bloobloomtrialsite/static/js/main.9c68628c.js",
     "static/media/removeFilter.svg": "/bloobloomtrialsite/static/media/removeFilter.d8eac936084552dc0c77ecb4d4cb973d.svg",
     "index.html": "/bloobloomtrialsite/index.html",
     "static/media/submenuArrow.svg": "/bloobloomtrialsite/static/media/submenuArrow.b66c0d24d53afae988fdf34c7c0dd72c.svg",
     "static/media/menuClose.svg": "/bloobloomtrialsite/static/media/menuClose.f60aff74b8d80eed851c047a4029bc3f.svg",
-    "main.091bb221.css.map": "/bloobloomtrialsite/static/css/main.091bb221.css.map",
-    "main.97f6d3fa.js.map": "/bloobloomtrialsite/static/js/main.97f6d3fa.js.map",
-    "787.63c05b88.chunk.js.map": "/bloobloomtrialsite/static/js/787.63c05b88.chunk.js.map"
+    "main.c763dc7d.css.map": "/bloobloomtrialsite/static/css/main.c763dc7d.css.map",
+    "main.9c68628c.js.map": "/bloobloomtrialsite/static/js/main.9c68628c.js.map"
   },
   "entrypoints": [
-    "static/css/main.091bb221.css",
-    "static/js/main.97f6d3fa.js"
+    "static/css/main.c763dc7d.css",
+    "static/js/main.9c68628c.js"
   ]
 }
